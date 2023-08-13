@@ -1,0 +1,4 @@
+- 3/27: Asked Nick on how to move noise generation functions off of the VBO onto terrain
+- 3/30: Asked in OHQ how to merge the chunking and terrain; worked with Yuhan on terrain stuff
+	-Also had minor issue with making terrain continuous along chunks
+- 3/31: Asked Dineth about terrain blending/Perlin Noise functions, etc. 

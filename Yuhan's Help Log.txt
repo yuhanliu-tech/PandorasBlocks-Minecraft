@@ -1,0 +1,40 @@
+Yuhan Liu's Mini Minecraft Help Log :)
+
+Milestone 1~ 
+
+2023-03-26 6:25pm: Thomas answered my question about how to set up efficient chunk face rendering in OH (loop through all blocks, for all nonEMPTY, check with neighbors, etc). 
+
+2023-03-28 6:05pm: Saksham answered my question about how to get the chunk VBO data in OH (position is iterated through, normals are same for cube, colors are given by type).
+
+2023-03-29 2:34pm: Yuqi helped me debug chunk crash in OH (logic seemed right, recommended testing strategies with terrain). 
+2023-03-29 6:08pm: Thomas and Monique continued to help me debug chunk crash in OH (was not properly checking bounds for edge chunks).
+
+2023-03-30 3:35pm: Di answered my question about setting up Terrain expansion in OH (i.e. what parts to implement for Milestone 1).
+2023-03-30 4:16pm: Di helped me debug Terrain expansion crash in OH (was not correctly instantiating new chunks).
+
+2023-03-31 12:15pm: Saksham helped me review my terrain expansion logic in OH to make sure my method in checking faces and updating neighbors was correct. 
+2023-03-31 3:59pm: Dineth helped me debug player physics for my partner in OH. 
+2023-03-31 4:42pm: Di helped me figure out why terrain expansion didn't work the same way after a git merge. We couldn't figure out any issues so she recommended that I film using an earlier version.
+
+2023-04-04 3:30pm: Adam helped us resolve bugs in chunking. 
+
+Milestone 2~
+
+2023-04-05 7:20pm: Thomas gave me a general overview of how to approach caves in OH. 
+
+2023-04-08 12:25pm: Nick checked my 3D noise functions and walked me through using them to generate caves in OH. 
+
+2023-04-09 6:05pm: Thomas helped me debug vertex shader in OH and also helped me merge with textures in Git. 
+
+2023-04-10 5:43pm: Saksham helped me debug overlay in OH as I was not correctly sampling the texture for the scene. 
+2023-04-10 6:20pm: Nick took a look at my player physics in OH and recommended that I set up a separate swim variable because my player was swimming weirdly. 
+
+Milestone 3~
+
+2023-04-14 4:44pm: Di helped me get the skybox demo code to run. 
+
+2023-04-17 9:34pm: I referenced the old CIS 460 syllabus to learn more about how to start implementing rivers: https://www.cis.upenn.edu/~cis4600/17fa/hw/hwMM02/mini_minecraft_02.html
+
+2023-04-19 2:00pm: In OH Adam helped me debug the procedural sky fragment shader (Adam's code used a vec3 when it should have been a vec4)
+
+2023-04-20 6:18pm: In OH Rhuta walked me through how to approach L-Systems for procedural trees. 

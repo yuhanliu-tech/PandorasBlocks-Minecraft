@@ -1,0 +1,16 @@
+Claire's Help Log
+
+Milestone 1
+
+3-23-10:14: https://physics.info/motion-equations/
+
+3-23-10:30: https://math.stackexchange.com/questions/286391/find-the-component-of-veca-along-vecb
+
+3-23-11:07: https://forum.qt.io/topic/17589/error-incomplete-type-qtime-used-in-nested-name-specifier-solved/4
+
+https://stackoverflow.com/questions/16759544/qt-how-to-check-which-mouse-button-is-pressed
+
+
+Milestone 2
+
+4-4-11:07: https://www.techiedelight.com/check-element-present-set-cpp/#:~:text=The%20standard%20solution%20to%20check,of%20the%20container%20is%20returned.
